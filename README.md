@@ -1,2 +1,3 @@
 # zap
-TBA
+
+Zap is a Bitcoin Wallet.
